@@ -1,1 +1,1 @@
-# SAE_Multigame
+This C++ project is a multi-game console application featuring a variety of classic and custom mini-games, including Tic-Tac-Toe (Morpion), Rock-Paper-Scissors (with a "Well" expansion), Russian Roulette, and a Word Guessing game. The program includes a global scoring system that unlocks a "Hardcore Mode" once the players reach 50 points, increasing the difficulty and adding new rules to the existing games. It demonstrates efficient use of structures, vectors, and terminal text styling to create an interactive gaming experience directly in the command line.
